@@ -16,7 +16,7 @@
  ## 二、实现过程 
  - Windows手动硬盘分区压缩与Ubuntu镜像写盘：![](./8.jpg)
  - Ubuntu+Windows11双系统启动：![](./9.jpg)
- - 在Ubuntu系统中运行VSCode并成功运行基础程序:![](./2.png)
+ - 在Ubuntu系统中运行VSCode并成功运行基础程序:![](./2.jpg)
  - Git与Github的绑定：![](./4.png)、![](./5.png)
  - 将测试文件上传到自己的Github文件中：![](./6.png)、![](7.png)
  ## 三、 遇到的问题与解决方法
