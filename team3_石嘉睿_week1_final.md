@@ -28,9 +28,11 @@
  
  ## 三、 遇到的问题与解决方法
  1.双系统安装时无法识别Windows分区：安全启动未关闭
- 解决方法：重启进入BIOS并关闭"Secure Boot"或重新启动并重新识别分区
+解决方法：重启进入BIOS并关闭"Secure Boot"或重新启动并重新识别分区
+
  2.VSCode运行C++报错“无编译器”：未安装GCC工具
  解决方法：终端中执行“sudo apt install g++、gcc”命令
+ 
  3.Git Push提示“权限不足”：未配置SSH密钥
  解决方法：生成密钥”ssh-keygen -t rsa"
  
