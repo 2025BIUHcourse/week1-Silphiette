@@ -2,17 +2,21 @@
  **文件命名**:team3_石嘉睿_week1_final.md
  
  ## 一、实验任务
+
 1.安装Ubuntu+Windows11双系统启动
   - BIOS设置(UEFI、启动顺序)
   - Windows手动硬盘分区压缩与Ubuntu镜像写盘
   - 手动分区(交换分区、EFI分区、EXT4 ROOT分区)
+
 2.基于Ubuntu系统的VSCode的安装与配置
   - 在VSCode中进行C++以及其他插件的安装
   - 在VScode中成功运行基础程序(Hello world)
+
 3.完成Git学习并将作业上传到所在小组
   - 加入自己的Github小组
   - 完成基础Git命令的学习
   - 用Git基础语句将作业提交到Github对应仓库中
+
  4.使用Markdown格式完成此次试验报告的编写
  
  ## 二、实现过程 
